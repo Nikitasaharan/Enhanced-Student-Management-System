@@ -1,4 +1,4 @@
-# Student Management System – Lab Assignment 3
+# Enhanced Student Management System
 
 ## Objective
 Enhance the Student Management System using:
