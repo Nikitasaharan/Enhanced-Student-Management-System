@@ -1,5 +1,3 @@
-<img width="580" height="422" alt="Screenshot 2025-11-13 222201" src="https://github.com/user-attachments/assets/919ba526-8aad-4b54-82e9-55b6e6c6b08f" /># Enhanced-Student-Management-System
-
 # Student Management System – Lab Assignment 3
 
 ## Objective
