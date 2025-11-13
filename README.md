@@ -18,12 +18,12 @@ Enhance the Student Management System using:
 ---
 
 ## Folder Structure
-src/
-├── exceptions/
-├── threads/
-├── model/
-├── service/
-└── Main.java
+- src/
+- ├── exceptions/
+- ├── threads/
+- ├── model/
+- ├── service/
+- └── Main.java
 
 
 ---
